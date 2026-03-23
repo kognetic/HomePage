@@ -21,7 +21,10 @@ export default function Home() {
           <div className="relative mx-auto max-w-6xl px-6 py-10 md:px-10 md:py-14">
             <div className="max-w-4xl">
               <h1 className="text-4xl font-bold tracking-tight text-white md:text-6xl">
-                Practical AI for Modern Service Firms
+                Practical AI
+              </h1>
+              <h1 className="text-4xl font-bold tracking-tight text-white md:text-6xl">
+                For Modern Service Firms
               </h1>
               <p className="mt-6 text-lg leading-8 text-slate-300 md:text-xl">
                 Reduce administrative workload, improve clarity across matters, and free up
@@ -200,13 +203,13 @@ export default function Home() {
             </p>
             <div className="mt-8 flex flex-col gap-4 sm:flex-row">
               <a
-                href="mailto:contact@kognetic.ai"
+                href="mailto:hello@kognetic.ai"
                 className="inline-flex items-center justify-center rounded-2xl bg-violet-600 px-6 py-3 text-sm font-semibold text-white shadow-sm transition hover:opacity-90"
               >
                 Request early access
               </a>
               <a
-                href="mailto:contact@kognetic.ai"
+                href="mailto:hello@kognetic.ai"
                 className="inline-flex items-center justify-center rounded-2xl border border-slate-300 px-6 py-3 text-sm font-semibold text-slate-700 transition hover:bg-white"
               >
                 Contact us
