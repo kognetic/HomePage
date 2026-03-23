@@ -229,7 +229,7 @@ export default function Home() {
             href="mailto:hello@kognetic.ai"
             className="transition hover:text-slate-900"
           >
-            KOGNETIC  |  ABN 74 816 454 880  |  hello@kognetic.ai
+            KOGNETIC  |  ABN 74 816 454 880  |  Contact kognetic.ai
           </a>
         </div>
       </footer>
