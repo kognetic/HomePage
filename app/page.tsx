@@ -23,8 +23,8 @@ export default function Home() {
               <h1 className="text-4xl font-bold tracking-tight text-white md:text-6xl">
                 Practical AI
               </h1>
-              <h1 className="text-4xl font-bold tracking-tight text-white md:text-6xl">
-                For Modern Service Firms
+              <h1 className="text-4xl font-bold tracking-tight text-white md:text-5xl">
+                For modern service firms
               </h1>
               <p className="mt-6 text-lg leading-8 text-slate-300 md:text-xl">
                 Reduce administrative workload, improve clarity across matters, and free up
