@@ -158,7 +158,7 @@ export default function Home() {
               Security and control come first
             </h2>
             <p className="mt-6 text-lg leading-8 text-slate-300">
-              As a Microsoft partner, Kognetic solutions are designed with professional standards in mind. Data can
+              Kognetic solutions are designed with professional standards in mind. Data can
               be processed within secure Azure environments, with
               controls to ensure your information remains private. 
             </p>
